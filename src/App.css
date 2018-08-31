@@ -1,0 +1,14 @@
+.card i{
+    cursor: pointer;
+    font-size: 22px;
+}
+.card .fa-times,
+.card .fa-pencil-alt{
+    color: red;
+    float: right;
+    font-size: 20px;
+}
+.card .fa-pencil-alt{
+    color: #000;
+    margin-right: 20px;
+}
